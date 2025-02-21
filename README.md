@@ -5,7 +5,7 @@ A paper list of large multimodal model (large vision-language model)
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :------------------------------------ |   :----------------------------------------------------------- |
-| 2023 | MIR'23  | **Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**  <br> <sub><sup>*JXiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao*</sup></sub> | [Paper](https://arxiv.org/abs/2302.10035) / [Code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)|
+| 2023 | MIR'23  | **Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**  <br> <sub><sup>*Xiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao*</sup></sub> | [Paper](https://arxiv.org/abs/2302.10035) / [Code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)|
 | 2023 | arxiv'23  | **Vision-Language Models for Vision Tasks:A Survey**  <br> <sub><sup>*Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu*</sup></sub> | [Paper](https://arxiv.org/pdf/2304.00685) / [Code](https://github.com/jingyi0000/VLM_survey)|
 | 2023 | arxiv'23  | **A Survey on Multimodal Large Language Models**  <br> <sub><sup>*Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen*</sup></sub> | [Paper](https://arxiv.org/pdf/2306.13549) / [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
 | 2024 | arxiv'24  | **Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**  <br> <sub><sup>*Akash Ghosh, Arkadeep Acharya, Sriparna Saha, Vinija Jain, Aman Chadha*</sup></sub> | [Paper](https://arxiv.org/abs/2404.07214)|
@@ -16,6 +16,7 @@ A paper list of large multimodal model (large vision-language model)
 
 | **Name** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :------------------------------------ |   :----------------------------------------------------------- |
+| BLIP2 | ICML'23 | **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models**  <br> <sub><sup>*Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi*</sup></sub> | [Paper](https://arxiv.org/pdf/2301.12597) / [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) |
 | LLaVA | NIPS'23  | **Visual Instruction Tuning**  <br> <sub><sup>*Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee*</sup></sub> | [Paper](https://arxiv.org/abs/2304.08485) / [Code](https://github.com/haotian-liu/LLaVA) |
 | Emu1 | ICLR'24  | **Emu: Generative Pretraining in Multimodality**  <br> <sub><sup>*Quan Sun, Qiying Yu, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang*</sup></sub>  | [Paper](https://arxiv.org/abs/2307.05222) / [Code](https://github.com/baaivision/Emu) |
 | Emu2 | CVPR'24  | **Generative Multimodal Models are In-Context Learners**  <br> <sub><sup>*Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang*</sup></sub>  | [Paper](https://arxiv.org/abs/2312.13286) / [Code](https://github.com/baaivision/Emu) |
