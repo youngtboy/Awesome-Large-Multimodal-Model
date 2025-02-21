@@ -25,6 +25,7 @@ A paper list of large multimodal model (large vision-language model)
 
 | **Name** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+| ViTamin | CVPR'24  | **ViTamin: Designing Scalable Vision Models in the Vision-Language Era**  <br> <sub><sup>*Jieneng Chen, Qihang Yu, Xiaohui Shen, Alan Yuille, Liang-Chieh Chen*</sup></sub> | [Paper](https://arxiv.org/pdf/2404.02132) / [Code](https://github.com/Beckschen/ViTamin) |
 | EVE1 | NIPS'24  | **Unveiling Encoder-Free Vision-Language Models**  <br> <sub><sup>*Haiwen Diao, Yufeng Cui, Xiaotong Li, Yueze Wang, Huchuan Lu, Xinlong Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2406.11832) / [Code](https://github.com/baaivision/EVE) |
 | Emu3 | arxiv'24  | **Emu3: Next-Token Prediction is All You Need**  <br> <sub><sup>*Emu3 Team, BAAI*</sup></sub> | [Paper](https://arxiv.org/pdf/2409.18869) / [Code](https://github.com/baaivision/Emu3) |
 
