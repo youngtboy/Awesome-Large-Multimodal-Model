@@ -21,6 +21,7 @@ A paper list of large multimodal model (large vision-language model)
 
 | **Name** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+| LLaVA-mini | arxiv'25  | **LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**  <br> <sub><sup>*Shaolei Zhang, Qingkai Fang, Zhe Yang, Yang Feng*</sup></sub> | [Paper](https://arxiv.org/abs/2501.03895) / [Code](https://github.com/ictnlp/LLaVA-Mini) |
 | EVE2 | arxiv'25  | **EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**  <br> <sub><sup>*Haiwen Diao, Xiaotong Li, Yufeng Cui, Yueze Wang, Haoge Deng, Ting Pan, Wenxuan Wang, Huchuan Lu, Xinlong Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2502.06788) / [Code](https://github.com/baaivision/EVE) |
 | Qwen2.5-VL | arxiv'25  | **Qwen2.5-VL Technical Report**  <br> <sub><sup>*Qwen Team, Alibaba Group*</sup></sub> | [Paper](https://arxiv.org/pdf/2502.13923) / [Code](https://github.com/QwenLM/Qwen2.5-VL) |
 
