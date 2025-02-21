@@ -5,6 +5,7 @@ A paper list of large multimodal model (large vision-language model)
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :------------------------------------ |   :----------------------------------------------------------- |
+| 2023 | MIR'23  | **Large-scale Multi-Modal Pre-trained Models: A Comprehensive Survey**  <br> <sub><sup>*JXiao Wang, Guangyao Chen, Guangwu Qian, Pengcheng Gao, Xiao-Yong Wei, Yaowei Wang, Yonghong Tian, Wen Gao*</sup></sub> | [Paper](https://arxiv.org/abs/2302.10035) / [Code](https://github.com/wangxiao5791509/MultiModal_BigModels_Survey)|
 | 2023 | arxiv'23  | **Vision-Language Models for Vision Tasks:A Survey**  <br> <sub><sup>*Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu*</sup></sub> | [Paper](https://arxiv.org/pdf/2304.00685) / [Code](https://github.com/jingyi0000/VLM_survey)|
 | 2023 | arxiv'23  | **A Survey on Multimodal Large Language Models**  <br> <sub><sup>*Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen*</sup></sub> | [Paper](https://arxiv.org/pdf/2306.13549) / [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
 | 2024 | arxiv'24  | **Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**  <br> <sub><sup>*Akash Ghosh, Arkadeep Acharya, Sriparna Saha, Vinija Jain, Aman Chadha*</sup></sub> | [Paper](https://arxiv.org/abs/2404.07214)|
