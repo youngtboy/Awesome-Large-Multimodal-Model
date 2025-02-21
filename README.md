@@ -7,7 +7,7 @@ A paper list of large multimodal model (large vision-language model)
 | :-----: | :------: | :------------------------------------ |   :----------------------------------------------------------- |
 | 2023 | arxiv'23  | **Vision-Language Models for Vision Tasks:A Survey**  <br> <sub><sup>*Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu*</sup></sub> | [Paper](https://arxiv.org/pdf/2304.00685) / [Code](https://github.com/jingyi0000/VLM_survey)|
 | 2023 | arxiv'23  | **A Survey on Multimodal Large Language Models**  <br> <sub><sup>*Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen*</sup></sub> | [Paper](https://arxiv.org/pdf/2306.13549) / [Code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)|
-| 2024 | arxiv'24  | **Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and <br> Future Directions**  <br> <sub><sup>*Akash Ghosh, Arkadeep Acharya, Sriparna Saha, Vinija Jain, Aman Chadha*</sup></sub> | [Paper](https://arxiv.org/abs/2404.07214)|
+| 2024 | arxiv'24  | **Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**  <br> <sub><sup>*Akash Ghosh, Arkadeep Acharya, Sriparna Saha, Vinija Jain, Aman Chadha*</sup></sub> | [Paper](https://arxiv.org/abs/2404.07214)|
 | 2024 | arxiv'24  | **Efficient Multimodal Large Language Models:A Survey**  <br> <sub><sup>*Yizhang Jin, Jian Li, Yexin Liu, Tianjun Gu, Kai Wu, Zhengkai Jiang, Muyang He, Bo Zhao, Xin Tan, Zhenye Gan, Yabiao Wang, Chengjie Wang, Lizhuang Ma*</sup></sub> | [Paper](https://arxiv.org/pdf/2405.10739) / [Code](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey)|
 
 
