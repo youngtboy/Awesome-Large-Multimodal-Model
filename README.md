@@ -90,4 +90,6 @@ A paper list of large multimodal model (large vision-language model)
 ## 2026
 - **[DeepSeek-OCR2]**  DeepSeek-OCR 2: Visual Causal Flow | **[arxiv'26]** |  [Paper](https://arxiv.org/abs/2601.20552) / [Code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
-- **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | [Blog](https://qwen.ai/blog?id=qwen3.5) [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
+- **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | **[Feb 16]** | [Blog](https://qwen.ai/blog?id=qwen3.5) [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
+
+- **[Gemma-4]** Gemma 4: Byte for byte, the most capable open models | **[Apr 02]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
