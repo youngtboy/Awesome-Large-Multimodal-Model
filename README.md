@@ -79,6 +79,8 @@ A paper list of large multimodal model (large vision-language model)
 
 - **[ViRFT]** Visual-RFT: Visual Reinforcement Fine-Tuning | **[arxiv'25]** |  [Paper](https://arxiv.org/abs/2503.01785) / [Code](https://github.com/Liuziyu77/Visual-RFT)
 
+- **[COMP]** CoMP: Continual Multimodal Pre-training for Vision Foundation Models  | **[arxiv'25]** |  [Paper](arxiv.org/abs/2503.18931) / [Code](https://github.com/ShareLab-SII/CoMP-MM)
+
 - **[InternVL-3]** InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models |  **[arxiv'25]** [Paper](https://arxiv.org/abs/2504.10479) / [Code](https://github.com/OpenGVLab/InternVL)
 
 - **[Rex-Omni]**  Detect Anything via Next Point Prediction | **[arxiv'25]** [Paper](https://arxiv.org/abs/2510.12798) / [Code](https://github.com/IDEA-Research/Rex-Omni)
