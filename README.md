@@ -96,4 +96,6 @@ A paper list of large multimodal model (large vision-language model)
 
 - **[Gemma-4]** Gemma 4: Byte for byte, the most capable open models | **[Apr 02]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
 
+- **[Qwen3-VL-Seg]** Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2605.07141)
+
 - **[Gemma-4 12B]** Introducing Gemma 4 12B: a unified, encoder-free multimodal model | **[Jun 03]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
