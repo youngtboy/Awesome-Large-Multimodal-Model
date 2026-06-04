@@ -95,3 +95,5 @@ A paper list of large multimodal model (large vision-language model)
 - **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | **[Feb 16]** | [Blog](https://qwen.ai/blog?id=qwen3.5) [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
 
 - **[Gemma-4]** Gemma 4: Byte for byte, the most capable open models | **[Apr 02]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
+
+- **[Gemma-4 12B]** Introducing Gemma 4 12B: a unified, encoder-free multimodal model | **[Jun 03]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
