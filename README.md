@@ -81,12 +81,16 @@ A paper list of large multimodal model (large vision-language model)
 
 - **[COMP]** CoMP: Continual Multimodal Pre-training for Vision Foundation Models  | **[arxiv'25]** |  [Paper](arxiv.org/abs/2503.18931) / [Code](https://github.com/ShareLab-SII/CoMP-MM)
 
-- **[InternVL-3]** InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models |  **[arxiv'25]** [Paper](https://arxiv.org/abs/2504.10479) / [Code](https://github.com/OpenGVLab/InternVL)
+- **[Kimi-VL]** Kimi-VL Technical Report | **[arxiv'25]** | [Paper](https://arxiv.org/abs/2504.07491) / [Code](https://github.com/MoonshotAI/Kimi-VL)
 
+- **[InternVL-3]** InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models |  **[arxiv'25]** [Paper](https://arxiv.org/abs/2504.10479) / [Code](https://github.com/OpenGVLab/InternVL)
+  
 - **[Rex-Omni]**  Detect Anything via Next Point Prediction | **[arxiv'25]** [Paper](https://arxiv.org/abs/2510.12798) / [Code](https://github.com/IDEA-Research/Rex-Omni)
 
 - **[DeepSeek-OCR]**  DeepSeek-OCR: Contexts Optical Compression | **[arxiv'25]** | [Paper](https://arxiv.org/abs/2510.18234) / [Code](https://github.com/deepseek-ai/DeepSeek-OCR) 
 
+- **[Kimi Linear]** Kimi Linear: An Expressive, Efficient Attention Architecture | **[arxiv'25]** | [Paper](https://arxiv.org/abs/2510.26692) / [Code](https://github.com/MoonshotAI/Kimi-Linear) 
+  
 - **[Qwen3-VL]** Qwen3-VL Technical Report | **[arxiv'25]** |  [Paper](https://arxiv.org/abs/2511.21631) / [Code](https://github.com/QwenLM/Qwen3-VL)
 
 ## 2026
@@ -94,13 +98,13 @@ A paper list of large multimodal model (large vision-language model)
 
 - **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | **[Feb 16]** | [Blog](https://qwen.ai/blog?id=qwen3.5) [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
 
+- **[AttnRes]** Attention Residuals  | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2603.15031) [code](https://github.com/MoonshotAI/Attention-Residuals)
+
 - **[Gemma-4]** Gemma 4: Byte for byte, the most capable open models | **[Apr 02]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
 
 - **[Qwen3-VL-Seg]** Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2605.07141)
 
 - **[Gemma-4 12B]** Introducing Gemma 4 12B: a unified, encoder-free multimodal model | **[Jun 03]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
-
-- **[Kimi-VL]** Kimi-VL Technical Report | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2504.07491) / [Code](https://github.com/MoonshotAI/Kimi-VL)
   
 - **[LocateAnything]** LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2605.27365) / [Code](https://github.com/NVlabs/Eagle/tree/main/Embodied)
 
