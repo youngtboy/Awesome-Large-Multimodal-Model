@@ -96,16 +96,22 @@ A paper list of large multimodal model (large vision-language model)
 ## 2026
 - **[DeepSeek-OCR2]**  DeepSeek-OCR 2: Visual Causal Flow | **[arxiv'26]** |  [Paper](https://arxiv.org/abs/2601.20552) / [Code](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
-- **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | **[Feb 16]** | [Blog](https://qwen.ai/blog?id=qwen3.5) [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
+- **[Kimi-K2.5]** Kimi K2.5: Visual Agentic Intelligence  | **[arxiv'26]** |  [Paper](https://arxiv.org/abs/2602.02276) / [Code](https://github.com/MoonshotAI/Kimi-K2.5)
 
-- **[AttnRes]** Attention Residuals  | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2603.15031) [code](https://github.com/MoonshotAI/Attention-Residuals)
+- **[Qwen-3.5]** Qwen3.5：迈向原生多模态智能体 | **[Feb 16]** | [Blog](https://qwen.ai/blog?id=qwen3.5) / [code](https://github.com/QwenLM/Qwen3.6?spm=a2ty_o06.30285417.0.0.72bcc921DN8TMY&file=Qwen3.5)
+
+- **[AttnRes]** Attention Residuals  | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2603.15031) / [code](https://github.com/MoonshotAI/Attention-Residuals)
 
 - **[Gemma-4]** Gemma 4: Byte for byte, the most capable open models | **[Apr 02]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
+
+- **[DeepSeek-V4]** DeepSeek-V4:Towards Highly Efficient Million-Token Context Intelligence | **[Apr 24]** | [Paper](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) / [Code](https://huggingface.co/collections/deepseek-ai/deepseek-v4)
 
 - **[Qwen3-VL-Seg]** Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding | **[arxiv'26]**| [Paper](https://arxiv.org/abs/2605.07141)
 
 - **[Gemma-4 12B]** Introducing Gemma 4 12B: a unified, encoder-free multimodal model | **[Jun 03]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
   
 - **[LocateAnything]** LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2605.27365) / [Code](https://github.com/NVlabs/Eagle/tree/main/Embodied)
+
+
 
   
