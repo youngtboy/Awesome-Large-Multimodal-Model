@@ -100,6 +100,8 @@ A paper list of large multimodal model (large vision-language model)
 
 - **[Gemma-4 12B]** Introducing Gemma 4 12B: a unified, encoder-free multimodal model | **[Jun 03]** | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 
+- **[Kimi-VL]** Kimi-VL Technical Report | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2504.07491) / [Code](https://github.com/MoonshotAI/Kimi-VL)
+  
 - **[LocateAnything]** LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2605.27365) / [Code](https://github.com/NVlabs/Eagle/tree/main/Embodied)
 
   
