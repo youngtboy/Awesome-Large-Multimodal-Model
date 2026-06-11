@@ -112,6 +112,8 @@ A paper list of large multimodal model (large vision-language model)
   
 - **[LocateAnything]** LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2605.27365) / [Code](https://github.com/NVlabs/Eagle/tree/main/Embodied)
 
+- **[MOSS-Video-Preview]** MOSS-Video-Preview: Toward Real-Time Video Understanding via Cross-Attention | **[arxiv'26]** | [Paper](https://arxiv.org/abs/2606.07639) / [Code](https://github.com/OpenMOSS/MOSS-Video-Preview)
+
 
 
   
